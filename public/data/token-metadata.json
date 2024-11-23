@@ -1,13 +1,13 @@
 {
-    "name": "Pong Token",
-    "symbol": "PONG",
-    "description": "Reward token for achieving high scores in Solana Pong",
-    "image": "https://raw.githubusercontent.com/yourusername/your-repo/main/pong-token.png",
-    "external_url": "https://your-game-url.com",
+    "name": "PixelPrize",
+    "symbol": "PXZE",
+    "description": "Reward token for achieving high scores in PixelPrize games",
+    "image": "https://github.com/josephvolmer/pxze/public/img/pxze.png",
+    "external_url": "https://github.com/josephvolmer/pxze",
     "attributes": [
         {
             "trait_type": "Game",
-            "value": "Solana Pong"
+            "value": "PixelPrize"
         }
     ]
 }

@@ -1,0 +1,13 @@
+{
+    "name": "Pong Token",
+    "symbol": "PONG",
+    "description": "Reward token for achieving high scores in Solana Pong",
+    "image": "https://raw.githubusercontent.com/yourusername/your-repo/main/pong-token.png",
+    "external_url": "https://your-game-url.com",
+    "attributes": [
+        {
+            "trait_type": "Game",
+            "value": "Solana Pong"
+        }
+    ]
+}

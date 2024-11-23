@@ -2,7 +2,7 @@
     "name": "PixelPrize",
     "symbol": "PXZE",
     "description": "Reward token for achieving high scores in PixelPrize games",
-    "image": "https://github.com/josephvolmer/pxze/public/img/pxze.png",
+    "image": "https://raw.githubusercontent.com/josephvolmer/pxze/refs/heads/main/public/img/pxze.png",
     "external_url": "https://github.com/josephvolmer/pxze",
     "attributes": [
         {
